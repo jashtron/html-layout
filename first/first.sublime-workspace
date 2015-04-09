@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 357,
+				"buffer_size": 1331,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,7 +19,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 432,
+				"buffer_size": 932,
 				"line_ending": "Unix",
 				"name": "styles.css"
 			}
@@ -97,7 +97,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -106,15 +106,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 357,
+						"buffer_size": 1331,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								159,
-								159
+								0,
+								0
 							]
 						],
 						"settings":
@@ -126,7 +126,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -135,15 +135,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 432,
+						"buffer_size": 932,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								336,
-								336
+								0,
+								0
 							]
 						],
 						"settings":
@@ -156,13 +156,13 @@
 						"translation.y": 140.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"file": "first.png",
 					"semi_transient": false,
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "image"
 				},
 				{
