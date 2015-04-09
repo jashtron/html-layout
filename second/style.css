@@ -1,0 +1,47 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html,body {
+	height: 100%;
+	width: 100%;
+}
+
+
+
+.left {
+	float: left;
+	background-color: blue;
+	height: 100%;
+	width: 33.33%;
+}
+
+.center {
+	float: left;
+	background-color: green;
+	height: 100%;
+	width: 33.33%;
+}	
+
+.right {
+    float: left;
+	height: 75%;
+	width: 33.33%;
+	background-color: yellow;
+}
+
+.content {
+	height: 25%;
+	width: 33.33%;
+	float: right;
+    background-color: red;
+    color: white;
+    text-align: center;
+
+}
+
+
+
