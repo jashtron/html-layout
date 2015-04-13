@@ -10,18 +10,22 @@ html,body {
 	width: 100%;
 }
 
+h2 {
+	padding: 65px;
+	font-family: sans-serif;
 
+}
 
 .left {
 	float: left;
-	background-color: blue;
+	background-color: #4A90E2;
 	height: 100%;
 	width: 33.33%;
 }
 
 .center {
 	float: left;
-	background-color: green;
+	background-color: #50E3C2;
 	height: 100%;
 	width: 33.33%;
 }	
@@ -30,18 +34,18 @@ html,body {
     float: left;
 	height: 75%;
 	width: 33.33%;
-	background-color: yellow;
+	background-color: #B8E986;
 }
 
 .content {
 	height: 25%;
 	width: 33.33%;
 	float: right;
-    background-color: red;
+    background-color: #CE0923;
     color: white;
     text-align: center;
     position: relative;
-    top: 10px;
+    
 
 }
 
